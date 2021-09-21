@@ -1,5 +1,8 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
+title: Guane Smart Home
+description: Guane Smart Home is zymDev's smart home product.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
+github:
+  beta_url: http://example.com/download-beta.apk
+  canary_url: http://example.com/download-canary.apk
