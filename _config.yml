@@ -4,5 +4,7 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
 github:
+  repository_url: 
+  is_project_page: true
   beta_url: http://example.com/download-beta.apk
   canary_url: http://example.com/download-canary.apk
